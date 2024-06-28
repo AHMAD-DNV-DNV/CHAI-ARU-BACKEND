@@ -1,0 +1,19 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "a project with chia aru code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "c"
+  },
+  "keywords": [
+    "chair",
+    "krusi"
+  ],
+  "author": "",
+  "license": "ISC"
+}
